@@ -1,5 +1,5 @@
 # Lambda-School---Lesson-3-Exercise-1
-JavaScript Exercise
+JavaScript Lessons from Lambda School
 
 Instructions from your teacher:
 Exercise I: Reading Code
